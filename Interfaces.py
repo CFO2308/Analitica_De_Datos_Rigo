@@ -7,3 +7,4 @@ def multi():
     print(a*b*c)
 
 multi()
+
